@@ -1,0 +1,3 @@
+D:\JP\Estudos\_Labs\DotNet\JPlayground\6-DebugAppsAndImplementSecurity\Exemplo077.CompilerDirectives\obj\Debug\netcoreapp3.1\Exemplo077.CompilerDirectives.csprojAssemblyReference.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\6-DebugAppsAndImplementSecurity\Exemplo077.CompilerDirectives\obj\Debug\netcoreapp3.1\Exemplo077.CompilerDirectives.AssemblyInfoInputs.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\6-DebugAppsAndImplementSecurity\Exemplo077.CompilerDirectives\obj\Debug\netcoreapp3.1\Exemplo077.CompilerDirectives.AssemblyInfo.cs

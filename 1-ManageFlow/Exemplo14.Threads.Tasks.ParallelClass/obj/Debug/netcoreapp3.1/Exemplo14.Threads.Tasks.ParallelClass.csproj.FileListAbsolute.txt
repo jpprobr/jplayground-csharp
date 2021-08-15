@@ -1,0 +1,11 @@
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo14.Threads.Tasks.ParallelClass\bin\Debug\netcoreapp3.1\Exemplo14.Threads.Tasks.ParallelClass.exe
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo14.Threads.Tasks.ParallelClass\bin\Debug\netcoreapp3.1\Exemplo14.Threads.Tasks.ParallelClass.deps.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo14.Threads.Tasks.ParallelClass\bin\Debug\netcoreapp3.1\Exemplo14.Threads.Tasks.ParallelClass.runtimeconfig.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo14.Threads.Tasks.ParallelClass\bin\Debug\netcoreapp3.1\Exemplo14.Threads.Tasks.ParallelClass.runtimeconfig.dev.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo14.Threads.Tasks.ParallelClass\bin\Debug\netcoreapp3.1\Exemplo14.Threads.Tasks.ParallelClass.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo14.Threads.Tasks.ParallelClass\bin\Debug\netcoreapp3.1\Exemplo14.Threads.Tasks.ParallelClass.pdb
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo14.Threads.Tasks.ParallelClass\obj\Debug\netcoreapp3.1\Exemplo14.Threads.Tasks.ParallelClass.csprojAssemblyReference.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo14.Threads.Tasks.ParallelClass\obj\Debug\netcoreapp3.1\Exemplo14.Threads.Tasks.ParallelClass.AssemblyInfoInputs.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo14.Threads.Tasks.ParallelClass\obj\Debug\netcoreapp3.1\Exemplo14.Threads.Tasks.ParallelClass.AssemblyInfo.cs
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo14.Threads.Tasks.ParallelClass\obj\Debug\netcoreapp3.1\Exemplo14.Threads.Tasks.ParallelClass.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo14.Threads.Tasks.ParallelClass\obj\Debug\netcoreapp3.1\Exemplo14.Threads.Tasks.ParallelClass.pdb

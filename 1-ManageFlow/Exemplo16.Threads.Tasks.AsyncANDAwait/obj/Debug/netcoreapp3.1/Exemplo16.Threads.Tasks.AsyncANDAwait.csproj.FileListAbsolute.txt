@@ -1,0 +1,11 @@
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo16.Threads.Tasks.AsyncANDAwait\bin\Debug\netcoreapp3.1\Exemplo16.Threads.Tasks.AsyncANDAwait.exe
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo16.Threads.Tasks.AsyncANDAwait\bin\Debug\netcoreapp3.1\Exemplo16.Threads.Tasks.AsyncANDAwait.deps.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo16.Threads.Tasks.AsyncANDAwait\bin\Debug\netcoreapp3.1\Exemplo16.Threads.Tasks.AsyncANDAwait.runtimeconfig.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo16.Threads.Tasks.AsyncANDAwait\bin\Debug\netcoreapp3.1\Exemplo16.Threads.Tasks.AsyncANDAwait.runtimeconfig.dev.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo16.Threads.Tasks.AsyncANDAwait\bin\Debug\netcoreapp3.1\Exemplo16.Threads.Tasks.AsyncANDAwait.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo16.Threads.Tasks.AsyncANDAwait\bin\Debug\netcoreapp3.1\Exemplo16.Threads.Tasks.AsyncANDAwait.pdb
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo16.Threads.Tasks.AsyncANDAwait\obj\Debug\netcoreapp3.1\Exemplo16.Threads.Tasks.AsyncANDAwait.csprojAssemblyReference.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo16.Threads.Tasks.AsyncANDAwait\obj\Debug\netcoreapp3.1\Exemplo16.Threads.Tasks.AsyncANDAwait.AssemblyInfoInputs.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo16.Threads.Tasks.AsyncANDAwait\obj\Debug\netcoreapp3.1\Exemplo16.Threads.Tasks.AsyncANDAwait.AssemblyInfo.cs
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo16.Threads.Tasks.AsyncANDAwait\obj\Debug\netcoreapp3.1\Exemplo16.Threads.Tasks.AsyncANDAwait.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo16.Threads.Tasks.AsyncANDAwait\obj\Debug\netcoreapp3.1\Exemplo16.Threads.Tasks.AsyncANDAwait.pdb

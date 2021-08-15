@@ -1,0 +1,10 @@
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ImplementFlow\Exemplo032.BooleanExpressions\bin\Debug\netcoreapp3.1\Exemplo032.BooleanExpressions.exe
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ImplementFlow\Exemplo032.BooleanExpressions\bin\Debug\netcoreapp3.1\Exemplo032.BooleanExpressions.deps.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ImplementFlow\Exemplo032.BooleanExpressions\bin\Debug\netcoreapp3.1\Exemplo032.BooleanExpressions.runtimeconfig.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ImplementFlow\Exemplo032.BooleanExpressions\bin\Debug\netcoreapp3.1\Exemplo032.BooleanExpressions.runtimeconfig.dev.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ImplementFlow\Exemplo032.BooleanExpressions\bin\Debug\netcoreapp3.1\Exemplo032.BooleanExpressions.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ImplementFlow\Exemplo032.BooleanExpressions\bin\Debug\netcoreapp3.1\Exemplo032.BooleanExpressions.pdb
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ImplementFlow\Exemplo032.BooleanExpressions\obj\Debug\netcoreapp3.1\Exemplo032.BooleanExpressions.AssemblyInfoInputs.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ImplementFlow\Exemplo032.BooleanExpressions\obj\Debug\netcoreapp3.1\Exemplo032.BooleanExpressions.AssemblyInfo.cs
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ImplementFlow\Exemplo032.BooleanExpressions\obj\Debug\netcoreapp3.1\Exemplo032.BooleanExpressions.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ImplementFlow\Exemplo032.BooleanExpressions\obj\Debug\netcoreapp3.1\Exemplo032.BooleanExpressions.pdb

@@ -1,0 +1,11 @@
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo059.ConvertingDifferentTypes\bin\Debug\netcoreapp3.1\Exemplo059.ConvertingDifferentTypes.exe
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo059.ConvertingDifferentTypes\bin\Debug\netcoreapp3.1\Exemplo059.ConvertingDifferentTypes.deps.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo059.ConvertingDifferentTypes\bin\Debug\netcoreapp3.1\Exemplo059.ConvertingDifferentTypes.runtimeconfig.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo059.ConvertingDifferentTypes\bin\Debug\netcoreapp3.1\Exemplo059.ConvertingDifferentTypes.runtimeconfig.dev.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo059.ConvertingDifferentTypes\bin\Debug\netcoreapp3.1\Exemplo059.ConvertingDifferentTypes.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo059.ConvertingDifferentTypes\bin\Debug\netcoreapp3.1\Exemplo059.ConvertingDifferentTypes.pdb
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo059.ConvertingDifferentTypes\obj\Debug\netcoreapp3.1\Exemplo059.ConvertingDifferentTypes.csprojAssemblyReference.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo059.ConvertingDifferentTypes\obj\Debug\netcoreapp3.1\Exemplo059.ConvertingDifferentTypes.AssemblyInfoInputs.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo059.ConvertingDifferentTypes\obj\Debug\netcoreapp3.1\Exemplo059.ConvertingDifferentTypes.AssemblyInfo.cs
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo059.ConvertingDifferentTypes\obj\Debug\netcoreapp3.1\Exemplo059.ConvertingDifferentTypes.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo059.ConvertingDifferentTypes\obj\Debug\netcoreapp3.1\Exemplo059.ConvertingDifferentTypes.pdb

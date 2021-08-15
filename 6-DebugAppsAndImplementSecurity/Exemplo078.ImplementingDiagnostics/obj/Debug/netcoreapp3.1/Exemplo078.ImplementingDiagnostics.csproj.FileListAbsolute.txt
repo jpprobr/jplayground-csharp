@@ -1,0 +1,14 @@
+D:\JP\Estudos\_Labs\DotNet\JPlayground\6-DebugAppsAndImplementSecurity\Exemplo078.ImplementingDiagnostics\bin\Debug\netcoreapp3.1\Exemplo078.ImplementingDiagnostics.exe
+D:\JP\Estudos\_Labs\DotNet\JPlayground\6-DebugAppsAndImplementSecurity\Exemplo078.ImplementingDiagnostics\bin\Debug\netcoreapp3.1\Exemplo078.ImplementingDiagnostics.deps.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\6-DebugAppsAndImplementSecurity\Exemplo078.ImplementingDiagnostics\bin\Debug\netcoreapp3.1\Exemplo078.ImplementingDiagnostics.runtimeconfig.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\6-DebugAppsAndImplementSecurity\Exemplo078.ImplementingDiagnostics\bin\Debug\netcoreapp3.1\Exemplo078.ImplementingDiagnostics.runtimeconfig.dev.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\6-DebugAppsAndImplementSecurity\Exemplo078.ImplementingDiagnostics\bin\Debug\netcoreapp3.1\Exemplo078.ImplementingDiagnostics.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\6-DebugAppsAndImplementSecurity\Exemplo078.ImplementingDiagnostics\bin\Debug\netcoreapp3.1\Exemplo078.ImplementingDiagnostics.pdb
+D:\JP\Estudos\_Labs\DotNet\JPlayground\6-DebugAppsAndImplementSecurity\Exemplo078.ImplementingDiagnostics\obj\Debug\netcoreapp3.1\Exemplo078.ImplementingDiagnostics.AssemblyInfoInputs.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\6-DebugAppsAndImplementSecurity\Exemplo078.ImplementingDiagnostics\obj\Debug\netcoreapp3.1\Exemplo078.ImplementingDiagnostics.AssemblyInfo.cs
+D:\JP\Estudos\_Labs\DotNet\JPlayground\6-DebugAppsAndImplementSecurity\Exemplo078.ImplementingDiagnostics\obj\Debug\netcoreapp3.1\Exemplo078.ImplementingDiagnostics.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\6-DebugAppsAndImplementSecurity\Exemplo078.ImplementingDiagnostics\obj\Debug\netcoreapp3.1\Exemplo078.ImplementingDiagnostics.pdb
+D:\JP\Estudos\_Labs\DotNet\JPlayground\6-DebugAppsAndImplementSecurity\Exemplo078.ImplementingDiagnostics\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\6-DebugAppsAndImplementSecurity\Exemplo078.ImplementingDiagnostics\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\6-DebugAppsAndImplementSecurity\Exemplo078.ImplementingDiagnostics\obj\Debug\netcoreapp3.1\Exemplo078.ImplementingDiagnostics.csprojAssemblyReference.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\6-DebugAppsAndImplementSecurity\Exemplo078.ImplementingDiagnostics\obj\Debug\netcoreapp3.1\Exemplo078.ImplementingDiagnostics.csproj.CopyComplete

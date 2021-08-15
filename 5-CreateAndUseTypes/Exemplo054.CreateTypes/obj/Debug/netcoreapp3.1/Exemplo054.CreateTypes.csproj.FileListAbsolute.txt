@@ -1,0 +1,10 @@
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo054.CreateTypes\bin\Debug\netcoreapp3.1\Exemplo054.CreateTypes.exe
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo054.CreateTypes\bin\Debug\netcoreapp3.1\Exemplo054.CreateTypes.deps.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo054.CreateTypes\bin\Debug\netcoreapp3.1\Exemplo054.CreateTypes.runtimeconfig.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo054.CreateTypes\bin\Debug\netcoreapp3.1\Exemplo054.CreateTypes.runtimeconfig.dev.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo054.CreateTypes\bin\Debug\netcoreapp3.1\Exemplo054.CreateTypes.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo054.CreateTypes\bin\Debug\netcoreapp3.1\Exemplo054.CreateTypes.pdb
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo054.CreateTypes\obj\Debug\netcoreapp3.1\Exemplo054.CreateTypes.AssemblyInfoInputs.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo054.CreateTypes\obj\Debug\netcoreapp3.1\Exemplo054.CreateTypes.AssemblyInfo.cs
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo054.CreateTypes\obj\Debug\netcoreapp3.1\Exemplo054.CreateTypes.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo054.CreateTypes\obj\Debug\netcoreapp3.1\Exemplo054.CreateTypes.pdb

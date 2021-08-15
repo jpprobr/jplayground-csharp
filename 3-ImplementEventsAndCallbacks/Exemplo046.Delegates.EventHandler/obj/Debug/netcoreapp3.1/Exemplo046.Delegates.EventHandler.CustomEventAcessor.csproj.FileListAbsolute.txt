@@ -1,0 +1,11 @@
+D:\JP\Estudos\_Labs\DotNet\JPlayground\3-ImplementEventsAndCallbacks\Exemplo046.Delegates.EventHandler\bin\Debug\netcoreapp3.1\Exemplo046.Delegates.EventHandler.CustomEventAcessor.exe
+D:\JP\Estudos\_Labs\DotNet\JPlayground\3-ImplementEventsAndCallbacks\Exemplo046.Delegates.EventHandler\bin\Debug\netcoreapp3.1\Exemplo046.Delegates.EventHandler.CustomEventAcessor.deps.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\3-ImplementEventsAndCallbacks\Exemplo046.Delegates.EventHandler\bin\Debug\netcoreapp3.1\Exemplo046.Delegates.EventHandler.CustomEventAcessor.runtimeconfig.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\3-ImplementEventsAndCallbacks\Exemplo046.Delegates.EventHandler\bin\Debug\netcoreapp3.1\Exemplo046.Delegates.EventHandler.CustomEventAcessor.runtimeconfig.dev.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\3-ImplementEventsAndCallbacks\Exemplo046.Delegates.EventHandler\bin\Debug\netcoreapp3.1\Exemplo046.Delegates.EventHandler.CustomEventAcessor.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\3-ImplementEventsAndCallbacks\Exemplo046.Delegates.EventHandler\bin\Debug\netcoreapp3.1\Exemplo046.Delegates.EventHandler.CustomEventAcessor.pdb
+D:\JP\Estudos\_Labs\DotNet\JPlayground\3-ImplementEventsAndCallbacks\Exemplo046.Delegates.EventHandler\obj\Debug\netcoreapp3.1\Exemplo046.Delegates.EventHandler.CustomEventAcessor.csprojAssemblyReference.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\3-ImplementEventsAndCallbacks\Exemplo046.Delegates.EventHandler\obj\Debug\netcoreapp3.1\Exemplo046.Delegates.EventHandler.CustomEventAcessor.AssemblyInfoInputs.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\3-ImplementEventsAndCallbacks\Exemplo046.Delegates.EventHandler\obj\Debug\netcoreapp3.1\Exemplo046.Delegates.EventHandler.CustomEventAcessor.AssemblyInfo.cs
+D:\JP\Estudos\_Labs\DotNet\JPlayground\3-ImplementEventsAndCallbacks\Exemplo046.Delegates.EventHandler\obj\Debug\netcoreapp3.1\Exemplo046.Delegates.EventHandler.CustomEventAcessor.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\3-ImplementEventsAndCallbacks\Exemplo046.Delegates.EventHandler\obj\Debug\netcoreapp3.1\Exemplo046.Delegates.EventHandler.CustomEventAcessor.pdb

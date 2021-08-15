@@ -1,0 +1,10 @@
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo9.Threads.Tasks\bin\Debug\netcoreapp3.1\Exemplo9.Threads.Tasks.exe
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo9.Threads.Tasks\bin\Debug\netcoreapp3.1\Exemplo9.Threads.Tasks.deps.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo9.Threads.Tasks\bin\Debug\netcoreapp3.1\Exemplo9.Threads.Tasks.runtimeconfig.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo9.Threads.Tasks\bin\Debug\netcoreapp3.1\Exemplo9.Threads.Tasks.runtimeconfig.dev.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo9.Threads.Tasks\bin\Debug\netcoreapp3.1\Exemplo9.Threads.Tasks.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo9.Threads.Tasks\bin\Debug\netcoreapp3.1\Exemplo9.Threads.Tasks.pdb
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo9.Threads.Tasks\obj\Debug\netcoreapp3.1\Exemplo9.Threads.Tasks.AssemblyInfoInputs.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo9.Threads.Tasks\obj\Debug\netcoreapp3.1\Exemplo9.Threads.Tasks.AssemblyInfo.cs
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo9.Threads.Tasks\obj\Debug\netcoreapp3.1\Exemplo9.Threads.Tasks.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo9.Threads.Tasks\obj\Debug\netcoreapp3.1\Exemplo9.Threads.Tasks.pdb

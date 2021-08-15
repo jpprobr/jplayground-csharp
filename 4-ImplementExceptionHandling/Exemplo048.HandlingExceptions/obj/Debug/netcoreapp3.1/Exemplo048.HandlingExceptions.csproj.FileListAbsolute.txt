@@ -1,0 +1,10 @@
+D:\JP\Estudos\_Labs\DotNet\JPlayground\4-ImplementExceptionHandling\Exemplo048.HandlingExceptions\obj\Debug\netcoreapp3.1\Exemplo048.HandlingExceptions.AssemblyInfoInputs.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\4-ImplementExceptionHandling\Exemplo048.HandlingExceptions\obj\Debug\netcoreapp3.1\Exemplo048.HandlingExceptions.AssemblyInfo.cs
+D:\JP\Estudos\_Labs\DotNet\JPlayground\4-ImplementExceptionHandling\Exemplo048.HandlingExceptions\bin\Debug\netcoreapp3.1\Exemplo048.HandlingExceptions.exe
+D:\JP\Estudos\_Labs\DotNet\JPlayground\4-ImplementExceptionHandling\Exemplo048.HandlingExceptions\bin\Debug\netcoreapp3.1\Exemplo048.HandlingExceptions.deps.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\4-ImplementExceptionHandling\Exemplo048.HandlingExceptions\bin\Debug\netcoreapp3.1\Exemplo048.HandlingExceptions.runtimeconfig.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\4-ImplementExceptionHandling\Exemplo048.HandlingExceptions\bin\Debug\netcoreapp3.1\Exemplo048.HandlingExceptions.runtimeconfig.dev.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\4-ImplementExceptionHandling\Exemplo048.HandlingExceptions\bin\Debug\netcoreapp3.1\Exemplo048.HandlingExceptions.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\4-ImplementExceptionHandling\Exemplo048.HandlingExceptions\bin\Debug\netcoreapp3.1\Exemplo048.HandlingExceptions.pdb
+D:\JP\Estudos\_Labs\DotNet\JPlayground\4-ImplementExceptionHandling\Exemplo048.HandlingExceptions\obj\Debug\netcoreapp3.1\Exemplo048.HandlingExceptions.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\4-ImplementExceptionHandling\Exemplo048.HandlingExceptions\obj\Debug\netcoreapp3.1\Exemplo048.HandlingExceptions.pdb

@@ -1,0 +1,4 @@
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo060.DynamicTypes\bin\Debug\netcoreapp3.1\Exemplo060.DynamicTypes.exe
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo060.DynamicTypes\obj\Debug\netcoreapp3.1\Exemplo060.DynamicTypes.csprojAssemblyReference.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo060.DynamicTypes\obj\Debug\netcoreapp3.1\Exemplo060.DynamicTypes.AssemblyInfoInputs.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo060.DynamicTypes\obj\Debug\netcoreapp3.1\Exemplo060.DynamicTypes.AssemblyInfo.cs

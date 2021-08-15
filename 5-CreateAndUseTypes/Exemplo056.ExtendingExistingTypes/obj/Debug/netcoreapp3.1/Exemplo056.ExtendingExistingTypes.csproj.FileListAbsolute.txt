@@ -1,0 +1,11 @@
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo056.ExtendingExistingTypes\bin\Debug\netcoreapp3.1\Exemplo056.ExtendingExistingTypes.exe
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo056.ExtendingExistingTypes\bin\Debug\netcoreapp3.1\Exemplo056.ExtendingExistingTypes.deps.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo056.ExtendingExistingTypes\bin\Debug\netcoreapp3.1\Exemplo056.ExtendingExistingTypes.runtimeconfig.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo056.ExtendingExistingTypes\bin\Debug\netcoreapp3.1\Exemplo056.ExtendingExistingTypes.runtimeconfig.dev.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo056.ExtendingExistingTypes\bin\Debug\netcoreapp3.1\Exemplo056.ExtendingExistingTypes.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo056.ExtendingExistingTypes\bin\Debug\netcoreapp3.1\Exemplo056.ExtendingExistingTypes.pdb
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo056.ExtendingExistingTypes\obj\Debug\netcoreapp3.1\Exemplo056.ExtendingExistingTypes.csprojAssemblyReference.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo056.ExtendingExistingTypes\obj\Debug\netcoreapp3.1\Exemplo056.ExtendingExistingTypes.AssemblyInfoInputs.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo056.ExtendingExistingTypes\obj\Debug\netcoreapp3.1\Exemplo056.ExtendingExistingTypes.AssemblyInfo.cs
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo056.ExtendingExistingTypes\obj\Debug\netcoreapp3.1\Exemplo056.ExtendingExistingTypes.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo056.ExtendingExistingTypes\obj\Debug\netcoreapp3.1\Exemplo056.ExtendingExistingTypes.pdb

@@ -1,0 +1,11 @@
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo064.Standard-DotNet-Interfaces\bin\Debug\netcoreapp3.1\Exemplo064.Standard-DotNet-Interfaces.exe
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo064.Standard-DotNet-Interfaces\bin\Debug\netcoreapp3.1\Exemplo064.Standard-DotNet-Interfaces.deps.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo064.Standard-DotNet-Interfaces\bin\Debug\netcoreapp3.1\Exemplo064.Standard-DotNet-Interfaces.runtimeconfig.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo064.Standard-DotNet-Interfaces\bin\Debug\netcoreapp3.1\Exemplo064.Standard-DotNet-Interfaces.runtimeconfig.dev.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo064.Standard-DotNet-Interfaces\bin\Debug\netcoreapp3.1\Exemplo064.Standard-DotNet-Interfaces.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo064.Standard-DotNet-Interfaces\bin\Debug\netcoreapp3.1\Exemplo064.Standard-DotNet-Interfaces.pdb
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo064.Standard-DotNet-Interfaces\obj\Debug\netcoreapp3.1\Exemplo064.Standard-DotNet-Interfaces.AssemblyInfoInputs.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo064.Standard-DotNet-Interfaces\obj\Debug\netcoreapp3.1\Exemplo064.Standard-DotNet-Interfaces.AssemblyInfo.cs
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo064.Standard-DotNet-Interfaces\obj\Debug\netcoreapp3.1\Exemplo064.Standard-DotNet-Interfaces.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo064.Standard-DotNet-Interfaces\obj\Debug\netcoreapp3.1\Exemplo064.Standard-DotNet-Interfaces.pdb
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo064.Standard-DotNet-Interfaces\obj\Debug\netcoreapp3.1\Exemplo064.Standard-DotNet-Interfaces.csprojAssemblyReference.cache

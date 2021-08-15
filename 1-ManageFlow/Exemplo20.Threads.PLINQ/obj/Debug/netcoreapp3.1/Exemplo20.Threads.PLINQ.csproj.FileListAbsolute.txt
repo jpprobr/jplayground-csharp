@@ -1,0 +1,10 @@
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo20.Threads.PLINQ\bin\Debug\netcoreapp3.1\Exemplo20.Threads.PLINQ.exe
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo20.Threads.PLINQ\bin\Debug\netcoreapp3.1\Exemplo20.Threads.PLINQ.deps.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo20.Threads.PLINQ\bin\Debug\netcoreapp3.1\Exemplo20.Threads.PLINQ.runtimeconfig.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo20.Threads.PLINQ\bin\Debug\netcoreapp3.1\Exemplo20.Threads.PLINQ.runtimeconfig.dev.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo20.Threads.PLINQ\bin\Debug\netcoreapp3.1\Exemplo20.Threads.PLINQ.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo20.Threads.PLINQ\bin\Debug\netcoreapp3.1\Exemplo20.Threads.PLINQ.pdb
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo20.Threads.PLINQ\obj\Debug\netcoreapp3.1\Exemplo20.Threads.PLINQ.AssemblyInfoInputs.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo20.Threads.PLINQ\obj\Debug\netcoreapp3.1\Exemplo20.Threads.PLINQ.AssemblyInfo.cs
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo20.Threads.PLINQ\obj\Debug\netcoreapp3.1\Exemplo20.Threads.PLINQ.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo20.Threads.PLINQ\obj\Debug\netcoreapp3.1\Exemplo20.Threads.PLINQ.pdb

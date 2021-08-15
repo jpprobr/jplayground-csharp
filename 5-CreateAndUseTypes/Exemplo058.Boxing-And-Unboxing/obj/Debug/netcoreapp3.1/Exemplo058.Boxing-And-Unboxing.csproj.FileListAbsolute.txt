@@ -1,0 +1,11 @@
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo058.Boxing-And-Unboxing\bin\Debug\netcoreapp3.1\Exemplo058.Boxing-And-Unboxing.exe
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo058.Boxing-And-Unboxing\bin\Debug\netcoreapp3.1\Exemplo058.Boxing-And-Unboxing.deps.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo058.Boxing-And-Unboxing\bin\Debug\netcoreapp3.1\Exemplo058.Boxing-And-Unboxing.runtimeconfig.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo058.Boxing-And-Unboxing\bin\Debug\netcoreapp3.1\Exemplo058.Boxing-And-Unboxing.runtimeconfig.dev.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo058.Boxing-And-Unboxing\bin\Debug\netcoreapp3.1\Exemplo058.Boxing-And-Unboxing.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo058.Boxing-And-Unboxing\bin\Debug\netcoreapp3.1\Exemplo058.Boxing-And-Unboxing.pdb
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo058.Boxing-And-Unboxing\obj\Debug\netcoreapp3.1\Exemplo058.Boxing-And-Unboxing.csprojAssemblyReference.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo058.Boxing-And-Unboxing\obj\Debug\netcoreapp3.1\Exemplo058.Boxing-And-Unboxing.AssemblyInfoInputs.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo058.Boxing-And-Unboxing\obj\Debug\netcoreapp3.1\Exemplo058.Boxing-And-Unboxing.AssemblyInfo.cs
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo058.Boxing-And-Unboxing\obj\Debug\netcoreapp3.1\Exemplo058.Boxing-And-Unboxing.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo058.Boxing-And-Unboxing\obj\Debug\netcoreapp3.1\Exemplo058.Boxing-And-Unboxing.pdb

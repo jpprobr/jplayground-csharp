@@ -1,0 +1,11 @@
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo068.ManipulateStrings\bin\Debug\netcoreapp3.1\Exemplo068.ManipulateStrings.exe
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo068.ManipulateStrings\bin\Debug\netcoreapp3.1\Exemplo068.ManipulateStrings.deps.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo068.ManipulateStrings\bin\Debug\netcoreapp3.1\Exemplo068.ManipulateStrings.runtimeconfig.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo068.ManipulateStrings\bin\Debug\netcoreapp3.1\Exemplo068.ManipulateStrings.runtimeconfig.dev.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo068.ManipulateStrings\bin\Debug\netcoreapp3.1\Exemplo068.ManipulateStrings.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo068.ManipulateStrings\bin\Debug\netcoreapp3.1\Exemplo068.ManipulateStrings.pdb
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo068.ManipulateStrings\obj\Debug\netcoreapp3.1\Exemplo068.ManipulateStrings.csprojAssemblyReference.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo068.ManipulateStrings\obj\Debug\netcoreapp3.1\Exemplo068.ManipulateStrings.AssemblyInfoInputs.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo068.ManipulateStrings\obj\Debug\netcoreapp3.1\Exemplo068.ManipulateStrings.AssemblyInfo.cs
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo068.ManipulateStrings\obj\Debug\netcoreapp3.1\Exemplo068.ManipulateStrings.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo068.ManipulateStrings\obj\Debug\netcoreapp3.1\Exemplo068.ManipulateStrings.pdb

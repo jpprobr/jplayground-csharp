@@ -1,0 +1,10 @@
+D:\JP\Estudos\_Labs\DotNet\JPlayground\Exemplo036.Loops.While-And-DoWhile\bin\Debug\netcoreapp3.1\Exemplo036.Loops.While-And-DoWhile.exe
+D:\JP\Estudos\_Labs\DotNet\JPlayground\Exemplo036.Loops.While-And-DoWhile\bin\Debug\netcoreapp3.1\Exemplo036.Loops.While-And-DoWhile.deps.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\Exemplo036.Loops.While-And-DoWhile\bin\Debug\netcoreapp3.1\Exemplo036.Loops.While-And-DoWhile.runtimeconfig.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\Exemplo036.Loops.While-And-DoWhile\bin\Debug\netcoreapp3.1\Exemplo036.Loops.While-And-DoWhile.runtimeconfig.dev.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\Exemplo036.Loops.While-And-DoWhile\bin\Debug\netcoreapp3.1\Exemplo036.Loops.While-And-DoWhile.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\Exemplo036.Loops.While-And-DoWhile\bin\Debug\netcoreapp3.1\Exemplo036.Loops.While-And-DoWhile.pdb
+D:\JP\Estudos\_Labs\DotNet\JPlayground\Exemplo036.Loops.While-And-DoWhile\obj\Debug\netcoreapp3.1\Exemplo036.Loops.While-And-DoWhile.AssemblyInfoInputs.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\Exemplo036.Loops.While-And-DoWhile\obj\Debug\netcoreapp3.1\Exemplo036.Loops.While-And-DoWhile.AssemblyInfo.cs
+D:\JP\Estudos\_Labs\DotNet\JPlayground\Exemplo036.Loops.While-And-DoWhile\obj\Debug\netcoreapp3.1\Exemplo036.Loops.While-And-DoWhile.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\Exemplo036.Loops.While-And-DoWhile\obj\Debug\netcoreapp3.1\Exemplo036.Loops.While-And-DoWhile.pdb

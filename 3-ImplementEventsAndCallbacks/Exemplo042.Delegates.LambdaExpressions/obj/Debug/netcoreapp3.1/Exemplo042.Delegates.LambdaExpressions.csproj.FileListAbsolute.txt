@@ -1,0 +1,10 @@
+D:\JP\Estudos\_Labs\DotNet\JPlayground\3-ImplementEventsAndCallbacks\Exemplo042.Delegates.LambdaExpressions\bin\Debug\netcoreapp3.1\Exemplo042.Delegates.LambdaExpressions.exe
+D:\JP\Estudos\_Labs\DotNet\JPlayground\3-ImplementEventsAndCallbacks\Exemplo042.Delegates.LambdaExpressions\bin\Debug\netcoreapp3.1\Exemplo042.Delegates.LambdaExpressions.deps.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\3-ImplementEventsAndCallbacks\Exemplo042.Delegates.LambdaExpressions\bin\Debug\netcoreapp3.1\Exemplo042.Delegates.LambdaExpressions.runtimeconfig.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\3-ImplementEventsAndCallbacks\Exemplo042.Delegates.LambdaExpressions\bin\Debug\netcoreapp3.1\Exemplo042.Delegates.LambdaExpressions.runtimeconfig.dev.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\3-ImplementEventsAndCallbacks\Exemplo042.Delegates.LambdaExpressions\bin\Debug\netcoreapp3.1\Exemplo042.Delegates.LambdaExpressions.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\3-ImplementEventsAndCallbacks\Exemplo042.Delegates.LambdaExpressions\bin\Debug\netcoreapp3.1\Exemplo042.Delegates.LambdaExpressions.pdb
+D:\JP\Estudos\_Labs\DotNet\JPlayground\3-ImplementEventsAndCallbacks\Exemplo042.Delegates.LambdaExpressions\obj\Debug\netcoreapp3.1\Exemplo042.Delegates.LambdaExpressions.AssemblyInfoInputs.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\3-ImplementEventsAndCallbacks\Exemplo042.Delegates.LambdaExpressions\obj\Debug\netcoreapp3.1\Exemplo042.Delegates.LambdaExpressions.AssemblyInfo.cs
+D:\JP\Estudos\_Labs\DotNet\JPlayground\3-ImplementEventsAndCallbacks\Exemplo042.Delegates.LambdaExpressions\obj\Debug\netcoreapp3.1\Exemplo042.Delegates.LambdaExpressions.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\3-ImplementEventsAndCallbacks\Exemplo042.Delegates.LambdaExpressions\obj\Debug\netcoreapp3.1\Exemplo042.Delegates.LambdaExpressions.pdb

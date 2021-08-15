@@ -1,0 +1,11 @@
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo063.ClassHierarchy\bin\Debug\netcoreapp3.1\Exemplo063.ClassHierarchy.exe
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo063.ClassHierarchy\bin\Debug\netcoreapp3.1\Exemplo063.ClassHierarchy.deps.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo063.ClassHierarchy\bin\Debug\netcoreapp3.1\Exemplo063.ClassHierarchy.runtimeconfig.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo063.ClassHierarchy\bin\Debug\netcoreapp3.1\Exemplo063.ClassHierarchy.runtimeconfig.dev.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo063.ClassHierarchy\bin\Debug\netcoreapp3.1\Exemplo063.ClassHierarchy.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo063.ClassHierarchy\bin\Debug\netcoreapp3.1\Exemplo063.ClassHierarchy.pdb
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo063.ClassHierarchy\obj\Debug\netcoreapp3.1\Exemplo063.ClassHierarchy.csprojAssemblyReference.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo063.ClassHierarchy\obj\Debug\netcoreapp3.1\Exemplo063.ClassHierarchy.AssemblyInfoInputs.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo063.ClassHierarchy\obj\Debug\netcoreapp3.1\Exemplo063.ClassHierarchy.AssemblyInfo.cs
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo063.ClassHierarchy\obj\Debug\netcoreapp3.1\Exemplo063.ClassHierarchy.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo063.ClassHierarchy\obj\Debug\netcoreapp3.1\Exemplo063.ClassHierarchy.pdb

@@ -1,0 +1,10 @@
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo028.Threads.ManageMultithreading\bin\Debug\netcoreapp3.1\Exemplo028.Threads.ManageMultithreading.Volatile.exe
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo028.Threads.ManageMultithreading\bin\Debug\netcoreapp3.1\Exemplo028.Threads.ManageMultithreading.Volatile.deps.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo028.Threads.ManageMultithreading\bin\Debug\netcoreapp3.1\Exemplo028.Threads.ManageMultithreading.Volatile.runtimeconfig.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo028.Threads.ManageMultithreading\bin\Debug\netcoreapp3.1\Exemplo028.Threads.ManageMultithreading.Volatile.runtimeconfig.dev.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo028.Threads.ManageMultithreading\bin\Debug\netcoreapp3.1\Exemplo028.Threads.ManageMultithreading.Volatile.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo028.Threads.ManageMultithreading\bin\Debug\netcoreapp3.1\Exemplo028.Threads.ManageMultithreading.Volatile.pdb
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo028.Threads.ManageMultithreading\obj\Debug\netcoreapp3.1\Exemplo028.Threads.ManageMultithreading.Volatile.AssemblyInfoInputs.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo028.Threads.ManageMultithreading\obj\Debug\netcoreapp3.1\Exemplo028.Threads.ManageMultithreading.Volatile.AssemblyInfo.cs
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo028.Threads.ManageMultithreading\obj\Debug\netcoreapp3.1\Exemplo028.Threads.ManageMultithreading.Volatile.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo028.Threads.ManageMultithreading\obj\Debug\netcoreapp3.1\Exemplo028.Threads.ManageMultithreading.Volatile.pdb

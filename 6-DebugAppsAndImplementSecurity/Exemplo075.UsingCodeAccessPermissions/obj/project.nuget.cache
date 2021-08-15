@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "GKgooBEm1yl1yb9Q0x/ms0IPjUqMUzFQCmmmDKukFpniWDIdlF/GKaH2gFMT0X/MB0rh0aoapt3cBPgufsql6g==",
+  "success": true,
+  "projectFilePath": "D:\\JP\\Estudos\\_Labs\\DotNet\\JPlayground\\6-DebugAppsAndImplementSecurity\\Exemplo075.UsingCodeAccessPermissions\\Exemplo075.UsingCodeAccessPermissions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joao.araujo\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\joao.araujo\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\joao.araujo\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\joao.araujo\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\joao.araujo\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
+    "C:\\Users\\joao.araujo\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\joao.araujo\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+D:\JP\Estudos\_Labs\DotNet\JPlayground\6-DebugAppsAndImplementSecurity\Exemplo071.ValidatingJSONAndXML\bin\Debug\netcoreapp3.1\Exemplo071.ValidatingJSONAndXML.exe
+D:\JP\Estudos\_Labs\DotNet\JPlayground\6-DebugAppsAndImplementSecurity\Exemplo071.ValidatingJSONAndXML\obj\Debug\netcoreapp3.1\Exemplo071.ValidatingJSONAndXML.AssemblyInfoInputs.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\6-DebugAppsAndImplementSecurity\Exemplo071.ValidatingJSONAndXML\obj\Debug\netcoreapp3.1\Exemplo071.ValidatingJSONAndXML.AssemblyInfo.cs
+D:\JP\Estudos\_Labs\DotNet\JPlayground\6-DebugAppsAndImplementSecurity\Exemplo071.ValidatingJSONAndXML\bin\Debug\netcoreapp3.1\Exemplo071.ValidatingJSONAndXML.deps.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\6-DebugAppsAndImplementSecurity\Exemplo071.ValidatingJSONAndXML\bin\Debug\netcoreapp3.1\Exemplo071.ValidatingJSONAndXML.runtimeconfig.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\6-DebugAppsAndImplementSecurity\Exemplo071.ValidatingJSONAndXML\bin\Debug\netcoreapp3.1\Exemplo071.ValidatingJSONAndXML.runtimeconfig.dev.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\6-DebugAppsAndImplementSecurity\Exemplo071.ValidatingJSONAndXML\bin\Debug\netcoreapp3.1\Exemplo071.ValidatingJSONAndXML.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\6-DebugAppsAndImplementSecurity\Exemplo071.ValidatingJSONAndXML\bin\Debug\netcoreapp3.1\Exemplo071.ValidatingJSONAndXML.pdb
+D:\JP\Estudos\_Labs\DotNet\JPlayground\6-DebugAppsAndImplementSecurity\Exemplo071.ValidatingJSONAndXML\obj\Debug\netcoreapp3.1\Exemplo071.ValidatingJSONAndXML.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\6-DebugAppsAndImplementSecurity\Exemplo071.ValidatingJSONAndXML\obj\Debug\netcoreapp3.1\Exemplo071.ValidatingJSONAndXML.pdb

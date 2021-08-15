@@ -1,0 +1,11 @@
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo26.Threads.ManageMultithreading\bin\Debug\netcoreapp3.1\Exemplo26.Threads.ManageMultithreading.exe
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo26.Threads.ManageMultithreading\bin\Debug\netcoreapp3.1\Exemplo26.Threads.ManageMultithreading.deps.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo26.Threads.ManageMultithreading\bin\Debug\netcoreapp3.1\Exemplo26.Threads.ManageMultithreading.runtimeconfig.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo26.Threads.ManageMultithreading\bin\Debug\netcoreapp3.1\Exemplo26.Threads.ManageMultithreading.runtimeconfig.dev.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo26.Threads.ManageMultithreading\bin\Debug\netcoreapp3.1\Exemplo26.Threads.ManageMultithreading.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo26.Threads.ManageMultithreading\bin\Debug\netcoreapp3.1\Exemplo26.Threads.ManageMultithreading.pdb
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo26.Threads.ManageMultithreading\obj\Debug\netcoreapp3.1\Exemplo26.Threads.ManageMultithreading.AssemblyInfoInputs.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo26.Threads.ManageMultithreading\obj\Debug\netcoreapp3.1\Exemplo26.Threads.ManageMultithreading.AssemblyInfo.cs
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo26.Threads.ManageMultithreading\obj\Debug\netcoreapp3.1\Exemplo26.Threads.ManageMultithreading.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo26.Threads.ManageMultithreading\obj\Debug\netcoreapp3.1\Exemplo26.Threads.ManageMultithreading.pdb
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo26.Threads.ManageMultithreading\obj\Debug\netcoreapp3.1\Exemplo26.Threads.ManageMultithreading.csprojAssemblyReference.cache

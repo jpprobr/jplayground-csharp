@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exemplo056.ExtendingExistingTypes/1.0.0": {
+        "runtime": {
+          "Exemplo056.ExtendingExistingTypes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exemplo056.ExtendingExistingTypes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

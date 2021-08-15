@@ -1,0 +1,10 @@
+D:\JP\Estudos\_Labs\DotNet\JPlayground\4-ImplementExceptionHandling\Exemplo052.HandlingExceptions.ExceptionDispatchInfo\bin\Debug\netcoreapp3.1\Exemplo052.HandlingExceptions.ExceptionDispatchInfo.exe
+D:\JP\Estudos\_Labs\DotNet\JPlayground\4-ImplementExceptionHandling\Exemplo052.HandlingExceptions.ExceptionDispatchInfo\bin\Debug\netcoreapp3.1\Exemplo052.HandlingExceptions.ExceptionDispatchInfo.deps.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\4-ImplementExceptionHandling\Exemplo052.HandlingExceptions.ExceptionDispatchInfo\bin\Debug\netcoreapp3.1\Exemplo052.HandlingExceptions.ExceptionDispatchInfo.runtimeconfig.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\4-ImplementExceptionHandling\Exemplo052.HandlingExceptions.ExceptionDispatchInfo\bin\Debug\netcoreapp3.1\Exemplo052.HandlingExceptions.ExceptionDispatchInfo.runtimeconfig.dev.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\4-ImplementExceptionHandling\Exemplo052.HandlingExceptions.ExceptionDispatchInfo\bin\Debug\netcoreapp3.1\Exemplo052.HandlingExceptions.ExceptionDispatchInfo.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\4-ImplementExceptionHandling\Exemplo052.HandlingExceptions.ExceptionDispatchInfo\bin\Debug\netcoreapp3.1\Exemplo052.HandlingExceptions.ExceptionDispatchInfo.pdb
+D:\JP\Estudos\_Labs\DotNet\JPlayground\4-ImplementExceptionHandling\Exemplo052.HandlingExceptions.ExceptionDispatchInfo\obj\Debug\netcoreapp3.1\Exemplo052.HandlingExceptions.ExceptionDispatchInfo.AssemblyInfoInputs.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\4-ImplementExceptionHandling\Exemplo052.HandlingExceptions.ExceptionDispatchInfo\obj\Debug\netcoreapp3.1\Exemplo052.HandlingExceptions.ExceptionDispatchInfo.AssemblyInfo.cs
+D:\JP\Estudos\_Labs\DotNet\JPlayground\4-ImplementExceptionHandling\Exemplo052.HandlingExceptions.ExceptionDispatchInfo\obj\Debug\netcoreapp3.1\Exemplo052.HandlingExceptions.ExceptionDispatchInfo.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\4-ImplementExceptionHandling\Exemplo052.HandlingExceptions.ExceptionDispatchInfo\obj\Debug\netcoreapp3.1\Exemplo052.HandlingExceptions.ExceptionDispatchInfo.pdb

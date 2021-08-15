@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exemplo27.Threads.ManageMultithreading.Deadlock/1.0.0": {
+        "runtime": {
+          "Exemplo27.Threads.ManageMultithreading.Deadlock.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exemplo27.Threads.ManageMultithreading.Deadlock/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

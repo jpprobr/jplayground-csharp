@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exemplo1.Threads/1.0.0": {
+        "runtime": {
+          "Exemplo1.Threads.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exemplo1.Threads/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

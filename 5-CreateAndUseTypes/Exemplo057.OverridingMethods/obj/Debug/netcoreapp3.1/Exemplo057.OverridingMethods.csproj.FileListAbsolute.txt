@@ -1,0 +1,10 @@
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo057.OverridingMethods\bin\Debug\netcoreapp3.1\Exemplo057.OverridingMethods.exe
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo057.OverridingMethods\bin\Debug\netcoreapp3.1\Exemplo057.OverridingMethods.deps.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo057.OverridingMethods\bin\Debug\netcoreapp3.1\Exemplo057.OverridingMethods.runtimeconfig.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo057.OverridingMethods\bin\Debug\netcoreapp3.1\Exemplo057.OverridingMethods.runtimeconfig.dev.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo057.OverridingMethods\bin\Debug\netcoreapp3.1\Exemplo057.OverridingMethods.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo057.OverridingMethods\bin\Debug\netcoreapp3.1\Exemplo057.OverridingMethods.pdb
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo057.OverridingMethods\obj\Debug\netcoreapp3.1\Exemplo057.OverridingMethods.AssemblyInfoInputs.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo057.OverridingMethods\obj\Debug\netcoreapp3.1\Exemplo057.OverridingMethods.AssemblyInfo.cs
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo057.OverridingMethods\obj\Debug\netcoreapp3.1\Exemplo057.OverridingMethods.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo057.OverridingMethods\obj\Debug\netcoreapp3.1\Exemplo057.OverridingMethods.pdb

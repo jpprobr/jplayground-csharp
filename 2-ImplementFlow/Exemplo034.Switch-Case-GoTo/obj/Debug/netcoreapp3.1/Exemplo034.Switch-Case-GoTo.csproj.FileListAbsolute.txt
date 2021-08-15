@@ -1,0 +1,11 @@
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ImplementFlow\Exemplo034.Switch-Case-GoTo\bin\Debug\netcoreapp3.1\Exemplo034.Switch-Case-GoTo.exe
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ImplementFlow\Exemplo034.Switch-Case-GoTo\bin\Debug\netcoreapp3.1\Exemplo034.Switch-Case-GoTo.deps.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ImplementFlow\Exemplo034.Switch-Case-GoTo\bin\Debug\netcoreapp3.1\Exemplo034.Switch-Case-GoTo.runtimeconfig.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ImplementFlow\Exemplo034.Switch-Case-GoTo\bin\Debug\netcoreapp3.1\Exemplo034.Switch-Case-GoTo.runtimeconfig.dev.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ImplementFlow\Exemplo034.Switch-Case-GoTo\bin\Debug\netcoreapp3.1\Exemplo034.Switch-Case-GoTo.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ImplementFlow\Exemplo034.Switch-Case-GoTo\bin\Debug\netcoreapp3.1\Exemplo034.Switch-Case-GoTo.pdb
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ImplementFlow\Exemplo034.Switch-Case-GoTo\obj\Debug\netcoreapp3.1\Exemplo034.Switch-Case-GoTo.AssemblyInfoInputs.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ImplementFlow\Exemplo034.Switch-Case-GoTo\obj\Debug\netcoreapp3.1\Exemplo034.Switch-Case-GoTo.AssemblyInfo.cs
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ImplementFlow\Exemplo034.Switch-Case-GoTo\obj\Debug\netcoreapp3.1\Exemplo034.Switch-Case-GoTo.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ImplementFlow\Exemplo034.Switch-Case-GoTo\obj\Debug\netcoreapp3.1\Exemplo034.Switch-Case-GoTo.pdb
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ImplementFlow\Exemplo034.Switch-Case-GoTo\obj\Debug\netcoreapp3.1\Exemplo034.Switch-Case-GoTo.csprojAssemblyReference.cache

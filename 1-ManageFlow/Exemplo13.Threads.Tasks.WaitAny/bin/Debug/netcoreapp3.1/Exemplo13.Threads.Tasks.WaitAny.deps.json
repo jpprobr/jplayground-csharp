@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exemplo13.Threads.Tasks.WaitAny/1.0.0": {
+        "runtime": {
+          "Exemplo13.Threads.Tasks.WaitAny.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exemplo13.Threads.Tasks.WaitAny/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

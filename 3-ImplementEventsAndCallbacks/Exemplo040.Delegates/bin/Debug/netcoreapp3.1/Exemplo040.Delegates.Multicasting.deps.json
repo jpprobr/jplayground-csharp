@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exemplo040.Delegates.Multicasting/1.0.0": {
+        "runtime": {
+          "Exemplo040.Delegates.Multicasting.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exemplo040.Delegates.Multicasting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

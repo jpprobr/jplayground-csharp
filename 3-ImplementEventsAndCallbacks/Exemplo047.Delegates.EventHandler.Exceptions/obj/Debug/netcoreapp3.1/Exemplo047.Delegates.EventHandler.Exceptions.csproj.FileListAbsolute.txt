@@ -1,0 +1,10 @@
+D:\JP\Estudos\_Labs\DotNet\JPlayground\3-ImplementEventsAndCallbacks\Exemplo047.Delegates.EventHandler.Exceptions\bin\Debug\netcoreapp3.1\Exemplo047.Delegates.EventHandler.Exceptions.exe
+D:\JP\Estudos\_Labs\DotNet\JPlayground\3-ImplementEventsAndCallbacks\Exemplo047.Delegates.EventHandler.Exceptions\bin\Debug\netcoreapp3.1\Exemplo047.Delegates.EventHandler.Exceptions.deps.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\3-ImplementEventsAndCallbacks\Exemplo047.Delegates.EventHandler.Exceptions\bin\Debug\netcoreapp3.1\Exemplo047.Delegates.EventHandler.Exceptions.runtimeconfig.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\3-ImplementEventsAndCallbacks\Exemplo047.Delegates.EventHandler.Exceptions\bin\Debug\netcoreapp3.1\Exemplo047.Delegates.EventHandler.Exceptions.runtimeconfig.dev.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\3-ImplementEventsAndCallbacks\Exemplo047.Delegates.EventHandler.Exceptions\bin\Debug\netcoreapp3.1\Exemplo047.Delegates.EventHandler.Exceptions.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\3-ImplementEventsAndCallbacks\Exemplo047.Delegates.EventHandler.Exceptions\bin\Debug\netcoreapp3.1\Exemplo047.Delegates.EventHandler.Exceptions.pdb
+D:\JP\Estudos\_Labs\DotNet\JPlayground\3-ImplementEventsAndCallbacks\Exemplo047.Delegates.EventHandler.Exceptions\obj\Debug\netcoreapp3.1\Exemplo047.Delegates.EventHandler.Exceptions.AssemblyInfoInputs.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\3-ImplementEventsAndCallbacks\Exemplo047.Delegates.EventHandler.Exceptions\obj\Debug\netcoreapp3.1\Exemplo047.Delegates.EventHandler.Exceptions.AssemblyInfo.cs
+D:\JP\Estudos\_Labs\DotNet\JPlayground\3-ImplementEventsAndCallbacks\Exemplo047.Delegates.EventHandler.Exceptions\obj\Debug\netcoreapp3.1\Exemplo047.Delegates.EventHandler.Exceptions.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\3-ImplementEventsAndCallbacks\Exemplo047.Delegates.EventHandler.Exceptions\obj\Debug\netcoreapp3.1\Exemplo047.Delegates.EventHandler.Exceptions.pdb

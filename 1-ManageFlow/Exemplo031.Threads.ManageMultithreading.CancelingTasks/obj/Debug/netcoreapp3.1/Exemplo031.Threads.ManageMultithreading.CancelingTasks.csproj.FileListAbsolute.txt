@@ -1,0 +1,11 @@
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo031.Threads.ManageMultithreading.CancelingTasks\bin\Debug\netcoreapp3.1\Exemplo031.Threads.ManageMultithreading.CancelingTasks.exe
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo031.Threads.ManageMultithreading.CancelingTasks\bin\Debug\netcoreapp3.1\Exemplo031.Threads.ManageMultithreading.CancelingTasks.deps.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo031.Threads.ManageMultithreading.CancelingTasks\bin\Debug\netcoreapp3.1\Exemplo031.Threads.ManageMultithreading.CancelingTasks.runtimeconfig.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo031.Threads.ManageMultithreading.CancelingTasks\bin\Debug\netcoreapp3.1\Exemplo031.Threads.ManageMultithreading.CancelingTasks.runtimeconfig.dev.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo031.Threads.ManageMultithreading.CancelingTasks\bin\Debug\netcoreapp3.1\Exemplo031.Threads.ManageMultithreading.CancelingTasks.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo031.Threads.ManageMultithreading.CancelingTasks\bin\Debug\netcoreapp3.1\Exemplo031.Threads.ManageMultithreading.CancelingTasks.pdb
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo031.Threads.ManageMultithreading.CancelingTasks\obj\Debug\netcoreapp3.1\Exemplo031.Threads.ManageMultithreading.CancelingTasks.csprojAssemblyReference.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo031.Threads.ManageMultithreading.CancelingTasks\obj\Debug\netcoreapp3.1\Exemplo031.Threads.ManageMultithreading.CancelingTasks.AssemblyInfoInputs.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo031.Threads.ManageMultithreading.CancelingTasks\obj\Debug\netcoreapp3.1\Exemplo031.Threads.ManageMultithreading.CancelingTasks.AssemblyInfo.cs
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo031.Threads.ManageMultithreading.CancelingTasks\obj\Debug\netcoreapp3.1\Exemplo031.Threads.ManageMultithreading.CancelingTasks.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo031.Threads.ManageMultithreading.CancelingTasks\obj\Debug\netcoreapp3.1\Exemplo031.Threads.ManageMultithreading.CancelingTasks.pdb

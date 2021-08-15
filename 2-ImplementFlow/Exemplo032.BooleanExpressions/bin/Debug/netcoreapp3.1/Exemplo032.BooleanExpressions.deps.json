@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exemplo032.BooleanExpressions/1.0.0": {
+        "runtime": {
+          "Exemplo032.BooleanExpressions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exemplo032.BooleanExpressions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo23.Threads.ConcurrentCollections\bin\Debug\netcoreapp3.1\Exemplo23.Threads.ConcurrentCollections.exe
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo23.Threads.ConcurrentCollections\bin\Debug\netcoreapp3.1\Exemplo23.Threads.ConcurrentCollections.deps.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo23.Threads.ConcurrentCollections\bin\Debug\netcoreapp3.1\Exemplo23.Threads.ConcurrentCollections.runtimeconfig.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo23.Threads.ConcurrentCollections\bin\Debug\netcoreapp3.1\Exemplo23.Threads.ConcurrentCollections.runtimeconfig.dev.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo23.Threads.ConcurrentCollections\bin\Debug\netcoreapp3.1\Exemplo23.Threads.ConcurrentCollections.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo23.Threads.ConcurrentCollections\bin\Debug\netcoreapp3.1\Exemplo23.Threads.ConcurrentCollections.pdb
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo23.Threads.ConcurrentCollections\obj\Debug\netcoreapp3.1\Exemplo23.Threads.ConcurrentCollections.csprojAssemblyReference.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo23.Threads.ConcurrentCollections\obj\Debug\netcoreapp3.1\Exemplo23.Threads.ConcurrentCollections.AssemblyInfoInputs.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo23.Threads.ConcurrentCollections\obj\Debug\netcoreapp3.1\Exemplo23.Threads.ConcurrentCollections.AssemblyInfo.cs
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo23.Threads.ConcurrentCollections\obj\Debug\netcoreapp3.1\Exemplo23.Threads.ConcurrentCollections.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo23.Threads.ConcurrentCollections\obj\Debug\netcoreapp3.1\Exemplo23.Threads.ConcurrentCollections.pdb

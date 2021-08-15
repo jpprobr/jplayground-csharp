@@ -1,0 +1,17 @@
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo065.UsingReflection\bin\Debug\netcoreapp3.1\Exemplo065.UsingReflection.exe
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo065.UsingReflection\obj\Debug\netcoreapp3.1\Exemplo065.UsingReflection.csprojAssemblyReference.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo065.UsingReflection\obj\Debug\netcoreapp3.1\Exemplo065.UsingReflection.AssemblyInfoInputs.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo065.UsingReflection\obj\Debug\netcoreapp3.1\Exemplo065.UsingReflection.AssemblyInfo.cs
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo065.UsingReflection\bin\Debug\netcoreapp3.1\Exemplo065.UsingReflection.deps.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo065.UsingReflection\bin\Debug\netcoreapp3.1\Exemplo065.UsingReflection.runtimeconfig.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo065.UsingReflection\bin\Debug\netcoreapp3.1\Exemplo065.UsingReflection.runtimeconfig.dev.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo065.UsingReflection\bin\Debug\netcoreapp3.1\Exemplo065.UsingReflection.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo065.UsingReflection\bin\Debug\netcoreapp3.1\Exemplo065.UsingReflection.pdb
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo065.UsingReflection\bin\Debug\netcoreapp3.1\xunit.abstractions.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo065.UsingReflection\bin\Debug\netcoreapp3.1\xunit.assert.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo065.UsingReflection\bin\Debug\netcoreapp3.1\xunit.core.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo065.UsingReflection\bin\Debug\netcoreapp3.1\xunit.execution.dotnet.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo065.UsingReflection\obj\Debug\netcoreapp3.1\Exemplo065.UsingReflection.csproj.CopyComplete
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo065.UsingReflection\obj\Debug\netcoreapp3.1\Exemplo065.UsingReflection.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo065.UsingReflection\obj\Debug\netcoreapp3.1\Exemplo065.UsingReflection.pdb
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo065.UsingReflection\bin\Debug\netcoreapp3.1\System.CodeDom.dll

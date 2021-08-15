@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exemplo038.JumpStatements/1.0.0": {
+        "runtime": {
+          "Exemplo038.JumpStatements.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exemplo038.JumpStatements/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

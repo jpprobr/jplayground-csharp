@@ -1,0 +1,11 @@
+D:\JP\Estudos\_Labs\DotNet\JPlayground\6-DebugAppsAndImplementSecurity\Exemplo070.RegularExpressions\bin\Debug\netcoreapp3.1\Exemplo070.RegularExpressions.exe
+D:\JP\Estudos\_Labs\DotNet\JPlayground\6-DebugAppsAndImplementSecurity\Exemplo070.RegularExpressions\bin\Debug\netcoreapp3.1\Exemplo070.RegularExpressions.deps.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\6-DebugAppsAndImplementSecurity\Exemplo070.RegularExpressions\bin\Debug\netcoreapp3.1\Exemplo070.RegularExpressions.runtimeconfig.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\6-DebugAppsAndImplementSecurity\Exemplo070.RegularExpressions\bin\Debug\netcoreapp3.1\Exemplo070.RegularExpressions.runtimeconfig.dev.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\6-DebugAppsAndImplementSecurity\Exemplo070.RegularExpressions\bin\Debug\netcoreapp3.1\Exemplo070.RegularExpressions.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\6-DebugAppsAndImplementSecurity\Exemplo070.RegularExpressions\bin\Debug\netcoreapp3.1\Exemplo070.RegularExpressions.pdb
+D:\JP\Estudos\_Labs\DotNet\JPlayground\6-DebugAppsAndImplementSecurity\Exemplo070.RegularExpressions\obj\Debug\netcoreapp3.1\Exemplo070.RegularExpressions.csprojAssemblyReference.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\6-DebugAppsAndImplementSecurity\Exemplo070.RegularExpressions\obj\Debug\netcoreapp3.1\Exemplo070.RegularExpressions.AssemblyInfoInputs.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\6-DebugAppsAndImplementSecurity\Exemplo070.RegularExpressions\obj\Debug\netcoreapp3.1\Exemplo070.RegularExpressions.AssemblyInfo.cs
+D:\JP\Estudos\_Labs\DotNet\JPlayground\6-DebugAppsAndImplementSecurity\Exemplo070.RegularExpressions\obj\Debug\netcoreapp3.1\Exemplo070.RegularExpressions.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\6-DebugAppsAndImplementSecurity\Exemplo070.RegularExpressions\obj\Debug\netcoreapp3.1\Exemplo070.RegularExpressions.pdb

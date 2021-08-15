@@ -1,0 +1,10 @@
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo061.DynamicObject-And-ExpandoObject\bin\Debug\netcoreapp3.1\Exemplo061.DynamicObject-And-ExpandoObject.exe
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo061.DynamicObject-And-ExpandoObject\bin\Debug\netcoreapp3.1\Exemplo061.DynamicObject-And-ExpandoObject.deps.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo061.DynamicObject-And-ExpandoObject\bin\Debug\netcoreapp3.1\Exemplo061.DynamicObject-And-ExpandoObject.runtimeconfig.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo061.DynamicObject-And-ExpandoObject\bin\Debug\netcoreapp3.1\Exemplo061.DynamicObject-And-ExpandoObject.runtimeconfig.dev.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo061.DynamicObject-And-ExpandoObject\bin\Debug\netcoreapp3.1\Exemplo061.DynamicObject-And-ExpandoObject.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo061.DynamicObject-And-ExpandoObject\bin\Debug\netcoreapp3.1\Exemplo061.DynamicObject-And-ExpandoObject.pdb
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo061.DynamicObject-And-ExpandoObject\obj\Debug\netcoreapp3.1\Exemplo061.DynamicObject-And-ExpandoObject.AssemblyInfoInputs.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo061.DynamicObject-And-ExpandoObject\obj\Debug\netcoreapp3.1\Exemplo061.DynamicObject-And-ExpandoObject.AssemblyInfo.cs
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo061.DynamicObject-And-ExpandoObject\obj\Debug\netcoreapp3.1\Exemplo061.DynamicObject-And-ExpandoObject.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo061.DynamicObject-And-ExpandoObject\obj\Debug\netcoreapp3.1\Exemplo061.DynamicObject-And-ExpandoObject.pdb

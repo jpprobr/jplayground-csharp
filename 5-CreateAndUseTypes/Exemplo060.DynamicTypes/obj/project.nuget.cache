@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "923UgqSp9FwSnVPIZuulqtH/SYIdr0rC9r41qIKA3SjPCj2apwnV3VMEDFlXKN9fW9Rt53oqplG3GL8nCNf1aA==",
+  "success": true,
+  "projectFilePath": "D:\\JP\\Estudos\\_Labs\\DotNet\\JPlayground\\5-CreateAndUseTypes\\Exemplo060.DynamicTypes\\Exemplo060.DynamicTypes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joao.araujo\\.nuget\\packages\\documentformat.openxml\\2.10.1\\documentformat.openxml.2.10.1.nupkg.sha512",
+    "C:\\Users\\joao.araujo\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

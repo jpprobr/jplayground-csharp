@@ -1,0 +1,10 @@
+D:\JP\Estudos\_Labs\DotNet\JPlayground\Exemplo035.Loops\bin\Debug\netcoreapp3.1\Exemplo035.Loops.For.exe
+D:\JP\Estudos\_Labs\DotNet\JPlayground\Exemplo035.Loops\bin\Debug\netcoreapp3.1\Exemplo035.Loops.For.deps.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\Exemplo035.Loops\bin\Debug\netcoreapp3.1\Exemplo035.Loops.For.runtimeconfig.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\Exemplo035.Loops\bin\Debug\netcoreapp3.1\Exemplo035.Loops.For.runtimeconfig.dev.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\Exemplo035.Loops\bin\Debug\netcoreapp3.1\Exemplo035.Loops.For.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\Exemplo035.Loops\bin\Debug\netcoreapp3.1\Exemplo035.Loops.For.pdb
+D:\JP\Estudos\_Labs\DotNet\JPlayground\Exemplo035.Loops\obj\Debug\netcoreapp3.1\Exemplo035.Loops.For.AssemblyInfoInputs.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\Exemplo035.Loops\obj\Debug\netcoreapp3.1\Exemplo035.Loops.For.AssemblyInfo.cs
+D:\JP\Estudos\_Labs\DotNet\JPlayground\Exemplo035.Loops\obj\Debug\netcoreapp3.1\Exemplo035.Loops.For.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\Exemplo035.Loops\obj\Debug\netcoreapp3.1\Exemplo035.Loops.For.pdb

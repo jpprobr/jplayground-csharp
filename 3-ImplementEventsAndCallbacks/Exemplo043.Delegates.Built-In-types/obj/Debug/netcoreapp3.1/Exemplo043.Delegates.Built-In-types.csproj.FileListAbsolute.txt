@@ -1,0 +1,11 @@
+D:\JP\Estudos\_Labs\DotNet\JPlayground\3-ImplementEventsAndCallbacks\Exemplo043.Delegates.Built-In-types\bin\Debug\netcoreapp3.1\Exemplo043.Delegates.Built-In-types.exe
+D:\JP\Estudos\_Labs\DotNet\JPlayground\3-ImplementEventsAndCallbacks\Exemplo043.Delegates.Built-In-types\bin\Debug\netcoreapp3.1\Exemplo043.Delegates.Built-In-types.deps.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\3-ImplementEventsAndCallbacks\Exemplo043.Delegates.Built-In-types\bin\Debug\netcoreapp3.1\Exemplo043.Delegates.Built-In-types.runtimeconfig.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\3-ImplementEventsAndCallbacks\Exemplo043.Delegates.Built-In-types\bin\Debug\netcoreapp3.1\Exemplo043.Delegates.Built-In-types.runtimeconfig.dev.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\3-ImplementEventsAndCallbacks\Exemplo043.Delegates.Built-In-types\bin\Debug\netcoreapp3.1\Exemplo043.Delegates.Built-In-types.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\3-ImplementEventsAndCallbacks\Exemplo043.Delegates.Built-In-types\bin\Debug\netcoreapp3.1\Exemplo043.Delegates.Built-In-types.pdb
+D:\JP\Estudos\_Labs\DotNet\JPlayground\3-ImplementEventsAndCallbacks\Exemplo043.Delegates.Built-In-types\obj\Debug\netcoreapp3.1\Exemplo043.Delegates.Built-In-types.AssemblyInfoInputs.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\3-ImplementEventsAndCallbacks\Exemplo043.Delegates.Built-In-types\obj\Debug\netcoreapp3.1\Exemplo043.Delegates.Built-In-types.AssemblyInfo.cs
+D:\JP\Estudos\_Labs\DotNet\JPlayground\3-ImplementEventsAndCallbacks\Exemplo043.Delegates.Built-In-types\obj\Debug\netcoreapp3.1\Exemplo043.Delegates.Built-In-types.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\3-ImplementEventsAndCallbacks\Exemplo043.Delegates.Built-In-types\obj\Debug\netcoreapp3.1\Exemplo043.Delegates.Built-In-types.pdb
+D:\JP\Estudos\_Labs\DotNet\JPlayground\3-ImplementEventsAndCallbacks\Exemplo043.Delegates.Built-In-types\obj\Debug\netcoreapp3.1\Exemplo043.Delegates.Built-In-types.csprojAssemblyReference.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exemplo028.Threads.ManageMultithreading/1.0.0": {
+        "runtime": {
+          "Exemplo028.Threads.ManageMultithreading.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exemplo028.Threads.ManageMultithreading/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

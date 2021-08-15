@@ -1,0 +1,11 @@
+D:\JP\Estudos\_Labs\DotNet\JPlayground\6-DebugAppsAndImplementSecurity\Exemplo072.WorkingWithEncryption\bin\Debug\netcoreapp3.1\Exemplo072.WorkingWithEncryption.exe
+D:\JP\Estudos\_Labs\DotNet\JPlayground\6-DebugAppsAndImplementSecurity\Exemplo072.WorkingWithEncryption\bin\Debug\netcoreapp3.1\Exemplo072.WorkingWithEncryption.deps.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\6-DebugAppsAndImplementSecurity\Exemplo072.WorkingWithEncryption\bin\Debug\netcoreapp3.1\Exemplo072.WorkingWithEncryption.runtimeconfig.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\6-DebugAppsAndImplementSecurity\Exemplo072.WorkingWithEncryption\bin\Debug\netcoreapp3.1\Exemplo072.WorkingWithEncryption.runtimeconfig.dev.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\6-DebugAppsAndImplementSecurity\Exemplo072.WorkingWithEncryption\bin\Debug\netcoreapp3.1\Exemplo072.WorkingWithEncryption.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\6-DebugAppsAndImplementSecurity\Exemplo072.WorkingWithEncryption\bin\Debug\netcoreapp3.1\Exemplo072.WorkingWithEncryption.pdb
+D:\JP\Estudos\_Labs\DotNet\JPlayground\6-DebugAppsAndImplementSecurity\Exemplo072.WorkingWithEncryption\obj\Debug\netcoreapp3.1\Exemplo072.WorkingWithEncryption.csprojAssemblyReference.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\6-DebugAppsAndImplementSecurity\Exemplo072.WorkingWithEncryption\obj\Debug\netcoreapp3.1\Exemplo072.WorkingWithEncryption.AssemblyInfoInputs.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\6-DebugAppsAndImplementSecurity\Exemplo072.WorkingWithEncryption\obj\Debug\netcoreapp3.1\Exemplo072.WorkingWithEncryption.AssemblyInfo.cs
+D:\JP\Estudos\_Labs\DotNet\JPlayground\6-DebugAppsAndImplementSecurity\Exemplo072.WorkingWithEncryption\obj\Debug\netcoreapp3.1\Exemplo072.WorkingWithEncryption.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\6-DebugAppsAndImplementSecurity\Exemplo072.WorkingWithEncryption\obj\Debug\netcoreapp3.1\Exemplo072.WorkingWithEncryption.pdb

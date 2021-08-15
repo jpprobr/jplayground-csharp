@@ -1,0 +1,10 @@
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo12.Threads.Tasks.TaskFactory\bin\Debug\netcoreapp3.1\Exemplo12.Threads.Tasks.WaitAll.exe
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo12.Threads.Tasks.TaskFactory\bin\Debug\netcoreapp3.1\Exemplo12.Threads.Tasks.WaitAll.deps.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo12.Threads.Tasks.TaskFactory\bin\Debug\netcoreapp3.1\Exemplo12.Threads.Tasks.WaitAll.runtimeconfig.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo12.Threads.Tasks.TaskFactory\bin\Debug\netcoreapp3.1\Exemplo12.Threads.Tasks.WaitAll.runtimeconfig.dev.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo12.Threads.Tasks.TaskFactory\bin\Debug\netcoreapp3.1\Exemplo12.Threads.Tasks.WaitAll.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo12.Threads.Tasks.TaskFactory\bin\Debug\netcoreapp3.1\Exemplo12.Threads.Tasks.WaitAll.pdb
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo12.Threads.Tasks.TaskFactory\obj\Debug\netcoreapp3.1\Exemplo12.Threads.Tasks.WaitAll.AssemblyInfoInputs.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo12.Threads.Tasks.TaskFactory\obj\Debug\netcoreapp3.1\Exemplo12.Threads.Tasks.WaitAll.AssemblyInfo.cs
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo12.Threads.Tasks.TaskFactory\obj\Debug\netcoreapp3.1\Exemplo12.Threads.Tasks.WaitAll.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo12.Threads.Tasks.TaskFactory\obj\Debug\netcoreapp3.1\Exemplo12.Threads.Tasks.WaitAll.pdb

@@ -1,0 +1,10 @@
+D:\JP\Estudos\_Labs\DotNet\JPlayground\4-ImplementExceptionHandling\Exemplo049.HandlingExceptions.FailFast\bin\Debug\netcoreapp3.1\Exemplo049.HandlingExceptions.FailFast.exe
+D:\JP\Estudos\_Labs\DotNet\JPlayground\4-ImplementExceptionHandling\Exemplo049.HandlingExceptions.FailFast\bin\Debug\netcoreapp3.1\Exemplo049.HandlingExceptions.FailFast.deps.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\4-ImplementExceptionHandling\Exemplo049.HandlingExceptions.FailFast\bin\Debug\netcoreapp3.1\Exemplo049.HandlingExceptions.FailFast.runtimeconfig.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\4-ImplementExceptionHandling\Exemplo049.HandlingExceptions.FailFast\bin\Debug\netcoreapp3.1\Exemplo049.HandlingExceptions.FailFast.runtimeconfig.dev.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\4-ImplementExceptionHandling\Exemplo049.HandlingExceptions.FailFast\bin\Debug\netcoreapp3.1\Exemplo049.HandlingExceptions.FailFast.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\4-ImplementExceptionHandling\Exemplo049.HandlingExceptions.FailFast\bin\Debug\netcoreapp3.1\Exemplo049.HandlingExceptions.FailFast.pdb
+D:\JP\Estudos\_Labs\DotNet\JPlayground\4-ImplementExceptionHandling\Exemplo049.HandlingExceptions.FailFast\obj\Debug\netcoreapp3.1\Exemplo049.HandlingExceptions.FailFast.AssemblyInfoInputs.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\4-ImplementExceptionHandling\Exemplo049.HandlingExceptions.FailFast\obj\Debug\netcoreapp3.1\Exemplo049.HandlingExceptions.FailFast.AssemblyInfo.cs
+D:\JP\Estudos\_Labs\DotNet\JPlayground\4-ImplementExceptionHandling\Exemplo049.HandlingExceptions.FailFast\obj\Debug\netcoreapp3.1\Exemplo049.HandlingExceptions.FailFast.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\4-ImplementExceptionHandling\Exemplo049.HandlingExceptions.FailFast\obj\Debug\netcoreapp3.1\Exemplo049.HandlingExceptions.FailFast.pdb

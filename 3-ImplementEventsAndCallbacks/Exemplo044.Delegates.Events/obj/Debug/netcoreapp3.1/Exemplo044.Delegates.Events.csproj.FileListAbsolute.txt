@@ -1,0 +1,11 @@
+D:\JP\Estudos\_Labs\DotNet\JPlayground\3-ImplementEventsAndCallbacks\Exemplo044.Delegates.Events\bin\Debug\netcoreapp3.1\Exemplo044.Delegates.Events.exe
+D:\JP\Estudos\_Labs\DotNet\JPlayground\3-ImplementEventsAndCallbacks\Exemplo044.Delegates.Events\bin\Debug\netcoreapp3.1\Exemplo044.Delegates.Events.deps.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\3-ImplementEventsAndCallbacks\Exemplo044.Delegates.Events\bin\Debug\netcoreapp3.1\Exemplo044.Delegates.Events.runtimeconfig.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\3-ImplementEventsAndCallbacks\Exemplo044.Delegates.Events\bin\Debug\netcoreapp3.1\Exemplo044.Delegates.Events.runtimeconfig.dev.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\3-ImplementEventsAndCallbacks\Exemplo044.Delegates.Events\bin\Debug\netcoreapp3.1\Exemplo044.Delegates.Events.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\3-ImplementEventsAndCallbacks\Exemplo044.Delegates.Events\bin\Debug\netcoreapp3.1\Exemplo044.Delegates.Events.pdb
+D:\JP\Estudos\_Labs\DotNet\JPlayground\3-ImplementEventsAndCallbacks\Exemplo044.Delegates.Events\obj\Debug\netcoreapp3.1\Exemplo044.Delegates.Events.AssemblyInfoInputs.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\3-ImplementEventsAndCallbacks\Exemplo044.Delegates.Events\obj\Debug\netcoreapp3.1\Exemplo044.Delegates.Events.AssemblyInfo.cs
+D:\JP\Estudos\_Labs\DotNet\JPlayground\3-ImplementEventsAndCallbacks\Exemplo044.Delegates.Events\obj\Debug\netcoreapp3.1\Exemplo044.Delegates.Events.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\3-ImplementEventsAndCallbacks\Exemplo044.Delegates.Events\obj\Debug\netcoreapp3.1\Exemplo044.Delegates.Events.pdb
+D:\JP\Estudos\_Labs\DotNet\JPlayground\3-ImplementEventsAndCallbacks\Exemplo044.Delegates.Events\obj\Debug\netcoreapp3.1\Exemplo044.Delegates.Events.csprojAssemblyReference.cache

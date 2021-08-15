@@ -1,0 +1,3 @@
+D:\JP\Estudos\_Labs\DotNet\JPlayground\6-DebugAppsAndImplementSecurity\Exemplo075.UsingCodeAccessPermissions\bin\Debug\netcoreapp3.1\Exemplo075.UsingCodeAccessPermissions.exe
+D:\JP\Estudos\_Labs\DotNet\JPlayground\6-DebugAppsAndImplementSecurity\Exemplo075.UsingCodeAccessPermissions\obj\Debug\netcoreapp3.1\Exemplo075.UsingCodeAccessPermissions.AssemblyInfoInputs.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\6-DebugAppsAndImplementSecurity\Exemplo075.UsingCodeAccessPermissions\obj\Debug\netcoreapp3.1\Exemplo075.UsingCodeAccessPermissions.AssemblyInfo.cs

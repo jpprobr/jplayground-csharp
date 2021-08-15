@@ -1,0 +1,11 @@
+D:\JP\Estudos\_Labs\DotNet\JPlayground\4-ImplementExceptionHandling\Exemplo053.HandlingExceptions.CustomExceptions\bin\Debug\netcoreapp3.1\Exemplo053.HandlingExceptions.CustomExceptions.exe
+D:\JP\Estudos\_Labs\DotNet\JPlayground\4-ImplementExceptionHandling\Exemplo053.HandlingExceptions.CustomExceptions\bin\Debug\netcoreapp3.1\Exemplo053.HandlingExceptions.CustomExceptions.deps.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\4-ImplementExceptionHandling\Exemplo053.HandlingExceptions.CustomExceptions\bin\Debug\netcoreapp3.1\Exemplo053.HandlingExceptions.CustomExceptions.runtimeconfig.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\4-ImplementExceptionHandling\Exemplo053.HandlingExceptions.CustomExceptions\bin\Debug\netcoreapp3.1\Exemplo053.HandlingExceptions.CustomExceptions.runtimeconfig.dev.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\4-ImplementExceptionHandling\Exemplo053.HandlingExceptions.CustomExceptions\bin\Debug\netcoreapp3.1\Exemplo053.HandlingExceptions.CustomExceptions.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\4-ImplementExceptionHandling\Exemplo053.HandlingExceptions.CustomExceptions\bin\Debug\netcoreapp3.1\Exemplo053.HandlingExceptions.CustomExceptions.pdb
+D:\JP\Estudos\_Labs\DotNet\JPlayground\4-ImplementExceptionHandling\Exemplo053.HandlingExceptions.CustomExceptions\obj\Debug\netcoreapp3.1\Exemplo053.HandlingExceptions.CustomExceptions.csprojAssemblyReference.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\4-ImplementExceptionHandling\Exemplo053.HandlingExceptions.CustomExceptions\obj\Debug\netcoreapp3.1\Exemplo053.HandlingExceptions.CustomExceptions.AssemblyInfoInputs.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\4-ImplementExceptionHandling\Exemplo053.HandlingExceptions.CustomExceptions\obj\Debug\netcoreapp3.1\Exemplo053.HandlingExceptions.CustomExceptions.AssemblyInfo.cs
+D:\JP\Estudos\_Labs\DotNet\JPlayground\4-ImplementExceptionHandling\Exemplo053.HandlingExceptions.CustomExceptions\obj\Debug\netcoreapp3.1\Exemplo053.HandlingExceptions.CustomExceptions.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\4-ImplementExceptionHandling\Exemplo053.HandlingExceptions.CustomExceptions\obj\Debug\netcoreapp3.1\Exemplo053.HandlingExceptions.CustomExceptions.pdb

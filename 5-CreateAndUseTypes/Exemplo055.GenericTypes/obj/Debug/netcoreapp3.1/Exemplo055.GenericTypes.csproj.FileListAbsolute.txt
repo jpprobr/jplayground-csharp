@@ -1,0 +1,11 @@
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo055.GenericTypes\bin\Debug\netcoreapp3.1\Exemplo055.GenericTypes.exe
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo055.GenericTypes\bin\Debug\netcoreapp3.1\Exemplo055.GenericTypes.deps.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo055.GenericTypes\bin\Debug\netcoreapp3.1\Exemplo055.GenericTypes.runtimeconfig.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo055.GenericTypes\bin\Debug\netcoreapp3.1\Exemplo055.GenericTypes.runtimeconfig.dev.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo055.GenericTypes\bin\Debug\netcoreapp3.1\Exemplo055.GenericTypes.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo055.GenericTypes\bin\Debug\netcoreapp3.1\Exemplo055.GenericTypes.pdb
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo055.GenericTypes\obj\Debug\netcoreapp3.1\Exemplo055.GenericTypes.csprojAssemblyReference.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo055.GenericTypes\obj\Debug\netcoreapp3.1\Exemplo055.GenericTypes.AssemblyInfoInputs.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo055.GenericTypes\obj\Debug\netcoreapp3.1\Exemplo055.GenericTypes.AssemblyInfo.cs
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo055.GenericTypes\obj\Debug\netcoreapp3.1\Exemplo055.GenericTypes.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\5-CreateAndUseTypes\Exemplo055.GenericTypes\obj\Debug\netcoreapp3.1\Exemplo055.GenericTypes.pdb

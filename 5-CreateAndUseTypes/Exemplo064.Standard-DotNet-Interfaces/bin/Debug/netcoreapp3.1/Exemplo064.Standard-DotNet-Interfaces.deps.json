@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exemplo064.Standard-DotNet-Interfaces/1.0.0": {
+        "runtime": {
+          "Exemplo064.Standard-DotNet-Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exemplo064.Standard-DotNet-Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

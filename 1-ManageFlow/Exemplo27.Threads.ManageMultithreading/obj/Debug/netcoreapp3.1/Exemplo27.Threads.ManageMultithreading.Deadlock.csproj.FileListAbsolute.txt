@@ -1,0 +1,10 @@
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo27.Threads.ManageMultithreading\bin\Debug\netcoreapp3.1\Exemplo27.Threads.ManageMultithreading.Deadlock.exe
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo27.Threads.ManageMultithreading\bin\Debug\netcoreapp3.1\Exemplo27.Threads.ManageMultithreading.Deadlock.deps.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo27.Threads.ManageMultithreading\bin\Debug\netcoreapp3.1\Exemplo27.Threads.ManageMultithreading.Deadlock.runtimeconfig.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo27.Threads.ManageMultithreading\bin\Debug\netcoreapp3.1\Exemplo27.Threads.ManageMultithreading.Deadlock.runtimeconfig.dev.json
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo27.Threads.ManageMultithreading\bin\Debug\netcoreapp3.1\Exemplo27.Threads.ManageMultithreading.Deadlock.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo27.Threads.ManageMultithreading\bin\Debug\netcoreapp3.1\Exemplo27.Threads.ManageMultithreading.Deadlock.pdb
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo27.Threads.ManageMultithreading\obj\Debug\netcoreapp3.1\Exemplo27.Threads.ManageMultithreading.Deadlock.AssemblyInfoInputs.cache
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo27.Threads.ManageMultithreading\obj\Debug\netcoreapp3.1\Exemplo27.Threads.ManageMultithreading.Deadlock.AssemblyInfo.cs
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo27.Threads.ManageMultithreading\obj\Debug\netcoreapp3.1\Exemplo27.Threads.ManageMultithreading.Deadlock.dll
+D:\JP\Estudos\_Labs\DotNet\JPlayground\ManageFlow\Exemplo27.Threads.ManageMultithreading\obj\Debug\netcoreapp3.1\Exemplo27.Threads.ManageMultithreading.Deadlock.pdb
